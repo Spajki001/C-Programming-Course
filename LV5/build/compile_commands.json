@@ -1,0 +1,12 @@
+[
+{
+  "directory": "D:/Korisnici/spaji/Dokumenti/Programiranje/LV5/build",
+  "command": "\"C:/Program Files/MinGW/bin/gcc.exe\"   -g -std=gnu99 -o CMakeFiles/lv5.dir/src/Functions.c.obj -c D:/Korisnici/spaji/Dokumenti/Programiranje/LV5/src/Functions.c",
+  "file": "D:/Korisnici/spaji/Dokumenti/Programiranje/LV5/src/Functions.c"
+},
+{
+  "directory": "D:/Korisnici/spaji/Dokumenti/Programiranje/LV5/build",
+  "command": "\"C:/Program Files/MinGW/bin/gcc.exe\"   -g -std=gnu99 -o CMakeFiles/lv5.dir/src/Main.c.obj -c D:/Korisnici/spaji/Dokumenti/Programiranje/LV5/src/Main.c",
+  "file": "D:/Korisnici/spaji/Dokumenti/Programiranje/LV5/src/Main.c"
+}
+]
